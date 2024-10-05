@@ -1,13 +1,17 @@
 package org.dev.module5;
 
-public class FibonacciIt {
-    public int findFibonacci(int serchedNumber) {
-        int nOne = 0;
-        int nTwo = 1;
-        int result = 0;
+public class FibonacciIterative {
+    public static long findFibonacci(int searchedNumber) {
+        //Часова складність O(n)
+        //Просторова складність O(1)
+        long nOne = 0;
+        long nTwo = 1;
+        long result = 0;
+        if (searchedNumber <= 1) {
+            return searchedNumber;
+        }
 
-
-        for (int i = 0; i < serchedNumber; i++){
+        for (int i = 0; i < searchedNumber - 1; i++){
             result = nOne + nTwo;
 
             nOne = nTwo;
@@ -18,7 +22,8 @@ public class FibonacciIt {
     }
 
     public static void main(String[] args) {
-        FibonacciIt fibonacciIt = new FibonacciIt();
-        fibonacciIt.findFibonacci(5);
+        FibonacciIterative fibonacciIt = new FibonacciIterative();
+        System.out.println(fibonacciIt.findFibonacci(6));
+
     }
 }

@@ -1,16 +1,16 @@
-import org.dev.module5.FibonacciIt;
+import org.dev.module5.FibonacciIterative;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class TestFibonacciIt {
+public class TestFibonacciIterative {
     @Test
     public void testFindFibonacciWorksCorrect(){
         //Given
-        FibonacciIt fibonacciIt = new FibonacciIt();
+        FibonacciIterative fibonacciIt = new FibonacciIterative();
         //When
-        int actual = fibonacciIt.findFibonacci(5);
+        long actual = fibonacciIt.findFibonacci(5);
         //Then
-        int expected = 8;
+        long expected = 8;
 
         Assertions.assertEquals(expected,actual);
     }

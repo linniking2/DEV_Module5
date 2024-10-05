@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b48411e4-3491-414a-8657-2b56e4881f04" name="Changes" comment="" />
+    <list default="true" id="b48411e4-3491-414a-8657-2b56e4881f04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dev/module5/FibonacciDynProg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dev/module5/FibonacciDynProg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dev/module5/FibonacciIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dev/module5/FibonacciIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dev/module5/FibonacciRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dev/module5/FibonacciRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dev/module5/UML" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dev/module5/UML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestFibonacciDynProg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFibonacciDynProg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestFibonacciIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFibonacciIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestFibonacciRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFibonacciRecursion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,26 +25,155 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;linniking2&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/linniking2/DEV_Module5.git&quot;,
+    &quot;accountId&quot;: &quot;0f27349f-3fab-444a-805a-5dccc6b06e75&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mmxdjePZa15tkqi6zhWiARS9pF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/go it/dev modules/module5/Module5/src/main/java/org/dev/module5/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Module5 [:FibonacciDynProg.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Module5 [:FibonacciIt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Module5 [:FibonacciIterative.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Module5 [:FibonacciRecursion.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TestFibonacciIt.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TestFibonacciRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/go it/dev modules/module5/Module5/src/main/java/org/dev/module5/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.FibonacciIterative">
+    <configuration name="FibonacciDynProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dev.module5.FibonacciDynProg" />
+      <module name="Module5.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dev.module5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dev.module5.FibonacciIterative" />
+      <module name="Module5.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dev.module5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dev.module5.FibonacciRecursion" />
+      <module name="Module5.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dev.module5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFibonacciIt" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;TestFibonacciIt&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFibonacciRecursion" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;TestFibonacciRecursion&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FibonacciDynProg" />
+        <item itemvalue="Gradle.TestFibonacciRecursion" />
+        <item itemvalue="Application.FibonacciRecursion" />
+        <item itemvalue="Gradle.TestFibonacciIt" />
+        <item itemvalue="Application.FibonacciIterative" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,16 +184,5 @@
       <updated>1727695644736</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/dev/module5/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
